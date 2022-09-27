@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="twitter.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="25.662083"
+     inkscape:cx="12.177499"
+     inkscape:cy="12.625631"
+     inkscape:window-width="1280"
+     inkscape:window-height="661"
+     inkscape:window-x="568"
+     inkscape:window-y="260"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Twitter</title>
+  <path
+     d="M 23.239388,5.0138149 A 9.4029851,9.4029851 0 0 1 20.583045,5.7425462 4.662,4.662 0 0 0 22.616911,3.1821134 C 21.722687,3.7039791 20.731612,4.0838597 19.676597,4.2954268 A 4.6262687,4.6262687 0 0 0 11.793134,8.5098447 C 7.9473135,8.3283671 4.540612,6.4806806 2.2585076,3.6898746 A 4.5341194,4.5341194 0 0 0 1.6322687,6.0171134 c 0,1.6079105 0.8180597,3.0211791 2.0573732,3.8514625 A 4.6112239,4.6112239 0 0 1 1.5946568,9.2893522 v 0.056418 a 4.6290895,4.6290895 0 0 0 3.7104179,4.5388208 4.6977313,4.6977313 0 0 1 -2.0799403,0.07992 4.6413134,4.6413134 0 0 0 4.3291343,3.213 9.2779254,9.2779254 0 0 1 -5.7377014,1.979329 c -0.3667165,0 -0.7324926,-0.02163 -1.1001493,-0.063 a 13.159478,13.159478 0 0 0 7.1058358,2.077124 c 8.5125222,0 13.1622982,-7.048477 13.1622982,-13.1500745 0,-0.1974627 0,-0.3949254 -0.0141,-0.592388 a 9.3418657,9.3418657 0 0 0 2.31313,-2.3958806 z"
+     id="path4"
+     style="fill:#000000;fill-opacity:0;stroke-width:0.9;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none" />
+  <metadata
+     id="metadata684">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Twitter</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
