@@ -94,11 +94,6 @@ menu:
     main: []
 
     social:
-        - identifier: discord
-          name: discord
-          url: https://perfectfyfth.bandcamp.com
-          params:
-              icon: discord
         - identifier: soundcloud
           name: soundcloud
           url: https://soundcloud.com/perfectfyfth
@@ -119,8 +114,12 @@ menu:
           url: https://perfectfyfth.bandcamp.com
           params:
               icon: bandcamp
-
-
+        - identifier: discord
+          name: discord
+          url: https://discord.gg/m57pQQx
+          params:
+              icon: discord
+              
 markup:
     goldmark:
         renderer:
